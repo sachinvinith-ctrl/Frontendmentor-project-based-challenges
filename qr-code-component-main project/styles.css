@@ -14,8 +14,10 @@ height: 100vh;
 
 display: flex;
 justify-content: center;
-height: 300px;
-width: 200px;
+align-items: center;
+flex-direction: column;
+height: 450px;
+width: 300px;
 background-color: #FFFFFF;
 border-radius: 10px;
 
@@ -23,9 +25,32 @@ border-radius: 10px;
 
 img {
 
-height: 180px;
-width: 180px;
-margin-top: 10px;
-border-radius: 5px;
+height: 270px;
+width: 270px;
+border-radius: 10px;
+
+}
+
+
+h1 {
+
+font-size: 22px;
+text-align: center;
+color: #1F314F;
+
+}
+
+p {
+
+text-align: center;
+font-size: 15px;
+color: #68778D;
+
+}
+
+
+.text {
+
+width: 250px;
 
 }
