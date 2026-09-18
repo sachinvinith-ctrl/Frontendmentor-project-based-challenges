@@ -25,8 +25,8 @@ border-radius: 10px;
 
 img {
 
-height: 270px;
-width: 270px;
+height: 260px;
+width: 260px;
 border-radius: 10px;
 
 }
@@ -35,6 +35,8 @@ border-radius: 10px;
 h1 {
 
 font-size: 22px;
+line-height: 120%;
+letter-spacing: 0px;
 text-align: center;
 color: #1F314F;
 
@@ -44,6 +46,8 @@ p {
 
 text-align: center;
 font-size: 15px;
+line-height: 140%;
+letter-spacing: 0.2px;
 color: #68778D;
 
 }
